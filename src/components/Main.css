@@ -1,0 +1,65 @@
+body{
+    background-color: #4c1fa0 ;
+}
+.main{
+    background-color: white;
+    padding: 30px;
+    margin: 50px auto;
+    border-radius: 5px;
+    max-width: 600px;
+    box-shadow: 0 0 10px #969393;
+}
+.main h1{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.form{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form input[type="text"]{
+    height: 40px;
+    min-width: 80%;
+    border: 1px solid #808080;
+    padding: 0 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.form button[type="submit"]{
+    background-color: #50dd9b;
+    color: white;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30px;
+}
+.listaTarefas{
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.listaTarefas li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.listaTarefas li .edit{
+    margin-right: 15px;
+    color: #0d9ea3;
+}
+.listaTarefas li .close{
+    margin-right: 15px;
+    color: #8b0000;
+}
+.listaTarefas li:hover{
+    background-color: #FFEBCD;
+}
+.listaTarefas li:hover .edit,
+.listaTarefas li:hover .close{
+    color: black;
+}
