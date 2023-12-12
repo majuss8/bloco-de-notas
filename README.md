@@ -8,4 +8,4 @@ npm i react
 npm install react-icons --save
 
 ## LICENSE
-LICENSE
+[MIT](LICENSE)
