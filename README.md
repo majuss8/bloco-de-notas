@@ -1,7 +1,7 @@
 # Bloco de notas
 #reactjs #css
 ## Sobre
-Projeto em Reactjs com foco em CRUD ( Create, Read, Update, Delete ), no qual apresenta essas funções.
+Projeto de um site de bloco de notas desenvolvido utilizando a biblioteca React JS e a linguagem de estilização CSS3. Este projeto incorpora funcionalidades fundamentais de CRUD (Create, Read, Update, Delete), proporcionando uma experiência completa ao usuário.
 ## Run
 npm i react
 npm install react-icons --save
