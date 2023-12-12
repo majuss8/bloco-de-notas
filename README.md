@@ -7,6 +7,7 @@ Projeto de um site de bloco de notas desenvolvido utilizando a biblioteca React 
 
 ## Run
 npm i react
+
 npm install react-icons --save
 
 ## LICENSE
