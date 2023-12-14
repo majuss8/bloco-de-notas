@@ -7,7 +7,11 @@ This is a project for a notepad website developed using the React JS library and
 
 ## Run
 
-npm install react-icons --save
+npm i react
+
+npm run build
+
+npm react-scripts start
 
 ## LICENSE
 [MIT](LICENSE)
