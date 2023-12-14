@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Notepad
+
+## About
+This is a project for a notepad website developed using the React JS library and the CSS3 styling language. The project incorporates fundamental CRUD (Create, Read, Update, Delete) functionalities, providing a comprehensive user experience.
+
+![image](https://github.com/majuss8/bloco-de-notas/assets/127978188/81adce60-63e7-417c-9fb3-a614406dd102)
+
+## Run
+npm i react
+
+npm install react-icons --save
+
+## LICENSE
+[MIT](LICENSE)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
