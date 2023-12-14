@@ -8,7 +8,9 @@ This is a project for a notepad website developed using the React JS library and
 ## Run
 npm i react
 
-npm install react-icons --save
+npm run build  
+
+npm react-scripts start
 
 ## LICENSE
 [MIT](LICENSE)
