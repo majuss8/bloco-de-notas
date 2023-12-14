@@ -6,7 +6,6 @@ This is a project for a notepad website developed using the React JS library and
 ![image](https://github.com/majuss8/bloco-de-notas/assets/127978188/81adce60-63e7-417c-9fb3-a614406dd102)
 
 ## Run
-npm i react
 
 npm install react-icons --save
 
